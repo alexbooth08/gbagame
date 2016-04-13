@@ -8,7 +8,6 @@
 ---------------------------
 Welcome to my geemboigeeme!
 
-
 THE GOAL OF THE GAME IS VERY SIMPLE. JUMP ON THE PLATFORMS WITH THE SAME COLOR AS YOUR CHARACTER TO CLEAR THE
 PLATFORM. FOR EVERY PLATFORM YOU CLEAR, YOU RECEIVE A POINT. IF YOU JUMP ON A PLATFORM WITH A DIFFERENT COLOR,
 YOU DIE. YOU CAN CHANGE COLORS USING THE B BUTTON, AND MOVE USING THE LEFT/RIGHT BUTTONS.
@@ -27,3 +26,10 @@ GameBoy | Keyboard
   Right | Right Arrow
      Up | Up Arrow
    Down | Down Arrow
+   
+   
+SCREENSHOTS:
+
+![image](startscreen.jpg)
+![image](gamescreen.jpg)
+![image](endscreen.jpg)
