@@ -15,10 +15,10 @@ GameBoy | Keyboard
 --------|----------
   Start | Enter
  Select | Backspace
-      A |Z
-      B |X
-      L |A
-      R |S
+      A | Z
+      B | X
+      L | A
+      R | S
    Left | Left Arrow
   Right | Right Arrow
      Up | Up Arrow
